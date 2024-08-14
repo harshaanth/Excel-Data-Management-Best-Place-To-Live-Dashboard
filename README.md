@@ -1,4 +1,4 @@
-# Excel-Data-Management-Best-Place-To-Live-Dashboard
+# Excel-Data-Management-Best-Place-To-Live
 Excel Dashboard on the Best Place to Live in the United States
 
 ## Optimal State Analysis Dashboard
